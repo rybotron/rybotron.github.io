@@ -8,7 +8,6 @@
 # Site settings
 title: RYBOTRON
 email: ryan@rybotron.com
-description: Rybotron is me, Ryan Berkey, and my open source visual creation and idea lab.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rybotron.com" # the base hostname & protocol for your site
 twitter_username: rybotron
